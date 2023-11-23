@@ -13,4 +13,4 @@ Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Professor
 
-* Nome completo do professor
+* Juliana Amaral Baroni de Carvalho
