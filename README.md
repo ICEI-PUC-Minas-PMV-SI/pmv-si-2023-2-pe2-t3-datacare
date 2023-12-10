@@ -9,12 +9,12 @@ As principais funcionalidades são:
 
 ## Integrantes
 
-* Isabela Gomes Lima
-* Guilherme Lanza Japolino
-* Luiz Henrique Santos De Andrade
-* Nathália Lopes Soares Bispo
 * Daniel Felipe Maciel Fernandes
+* Guilherme Lanza Japolino
+* Isabela Gomes Lima
+* Luiz Henrique Santos De Andrade
 * Matheus Carlos Fraga Dos Santos
+* Nathália Lopes Soares Bispo
 
 ## Professor
 
