@@ -32,7 +32,11 @@ message: |
 repository-code: "https://github.com/url do projeto"
 title: "DataCare"
 abstract: |
-    "
-    Breve descrição do projeto
-    "
+    The DataCare project was developed with the aim of improving and accelerating access to data on procedures carried out in a pharmacy, optimizing the most essential procedures and developing specialized care.
+
+    The features are:
+    
+    * Recording information about customers to offer personalized and loyal service;
+    * Product registration, to better manage the sale, validity and frequency of purchase of medicines
+    * Monitoring of sales, to enable profitability calculations, projection of results and other indicators that will be automated with the processes included.
 ...
