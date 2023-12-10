@@ -1,25 +1,23 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: Lima
-    given-names: Isabela Gomes
-  - family-names: Japolino
-    given-names: Guilherme Lanza
-  - family-names: Santos De Andrade
-    given-names: Luiz Henrique
-  - family-names: Soares Bispo
-    given-names: Nathália Lopes
   - family-names: Maciel Fernandes
     given-names: Daniel Felipe 
+  - family-names: Japolino
+    given-names: Guilherme Lanza
+  - family-names: Lima
+    given-names: Isabela Gomes
+  - family-names: Santos De Andrade
+    given-names: Luiz Henrique
   - family-names: Fraga Dos Santos
     given-names: Matheus Carlos
-    
+  - family-names: Soares Bispo
+    given-names: Nathália Lopes    
  
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Baroni de Carvalho
     given-names: Juliana Amaral 
-
   
 cff-version: "1.1.0"
 keywords: 
@@ -32,11 +30,9 @@ message: |
 repository-code: "https://github.com/url do projeto"
 title: "DataCare"
 abstract: |
-    The DataCare project was developed with the aim of improving and accelerating access to data on procedures carried out in a pharmacy, optimizing the most essential procedures and developing specialized care.
-
-    The features are:
-    
-    * Recording information about customers to offer personalized and loyal service;
-    * Product registration, to better manage the sale, validity and frequency of purchase of medicines
-    * Monitoring of sales, to enable profitability calculations, projection of results and other indicators that will be automated with the processes included.
+    The DataCare project was developed using the SydleOne tool with the aim of improve and accelerate access to data in a pharmacy, optimizing more essential procedures, adding specific functionalities and personalizing service.
+    The main features are:
+      * registration of information about customers to offer personalized service and loyal;
+      * registration of products, to better manage sales, validity and frequency of purchasing medicines;
+      * monitoring sales, to enable profitability calculations, projection of results and other indicators which will be automated with the mentioned processes.
 ...
